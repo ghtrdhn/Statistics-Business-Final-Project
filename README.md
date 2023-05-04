@@ -6,5 +6,7 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 Furthermore, from this dataset, want to know about a customer who will approve a personal loan, from the variables contained in the dataset by doing logistic regression. Where personal loans from this dataset will be seen based on bivariate logistic regression and multivariate logistic regression to find out what variables are very influential on the approval of personal loans by customers. As well as from the multivariate logistic regression, an evaluation is carried out to find out the best logistic regression model.
 
 Medium Link = https://bit.ly/3nrWkMb
+
 GitHub Repositories Link = https://bit.ly/3AQJWbI
+
 Document Link = https://bit.ly/3LrY8ge
