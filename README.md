@@ -1,5 +1,5 @@
 # Statistics-Business-Final-Project
-Statistics for Busienss Pacmann - Final Project - The personal loan predictions of customers by performing logistic regression
+Statistics for Business Pacmann - Final Project - The personal loan predictions of customers by performing logistic regression
 
 This case is about a bank (Thera Bank) whose management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a healthy conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.
 
