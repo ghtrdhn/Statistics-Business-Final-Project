@@ -9,4 +9,4 @@ Medium Link = https://bit.ly/3nrWkMb
 
 GitHub Repositories Link = https://bit.ly/3AQJWbI
 
-Document Link = https://bit.ly/3LrY8ge
+Document Link = https://bit.ly/42oHPYp
